@@ -1,0 +1,122 @@
+body {
+    background-color: #3f5252;
+    color: #DFDFD4;
+    padding-top: 70px;
+}
+
+.navbar {
+    margin-left: 2%;
+    margin-right: 2%;
+    background-color: #3f5252;
+    font-family: 'Balsamiq Sans', cursive;
+}
+
+.carousel {
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.info {
+    background-color: #5e723d;
+    margin: 2%;
+    padding: 2%;
+}
+
+.navpng {
+    height: 45px;
+    width: 45px;
+}
+
+.indeximg {
+    width: 100%;
+    margin-top: 1rem;
+    border: 5px solid #3f5252;
+}
+
+
+.h1bridge {
+    text-align: right;
+}
+
+.ybvid {
+    width: 100%;
+    height: 360px;
+    padding: 5% 0 5% 0;
+}
+h1, h3 {
+
+    margin-bottom: 2%;
+    font-family: 'Balsamiq Sans', cursive;
+    
+}
+
+p, .form {
+    font-family: 'Arimo', sans-serif;
+}
+
+
+.bernards {
+    margin-top: 10%;
+}
+
+.map {
+    margin-top: 5.4%;
+}
+
+.villagep, .bridgep {
+    margin-top: 5%;
+}
+
+.banner {
+    margin: 2% 20% 2% 20%;
+    padding: 2% 20% 2% 20%;
+    background-image: url("../media/tom-sargent-waterfall-banner.png");
+    background-size: 100% 100%;
+    border: 5px solid #5e723d;
+}
+@media (max-width: 768px) {
+    .banner {
+        margin: 0 2% !important;
+    }
+    .h1bridge{
+        text-align: left;
+        margin-top: 15px;
+    }
+    .location{
+        height: 100%;
+    }
+}
+
+.banner2 {
+    margin: 2% 20% 2% 20%;
+    padding: 2% 20% 2% 20%;
+    background-image: url("../media/tom-sargent-waterfall-banner.png");
+    background-size: 100% 100%;
+    border: 5px solid 
+    #5e723d;
+}
+
+.places {
+    background-color: #5e723d;
+    opacity: 0.90;
+    border-radius: 25px;
+}
+
+footer {
+    background-color: #95a877;
+    margin-left: 2%;
+    margin-right: 2%;
+    font-family: 'Arimo', sans-serif;
+}
+
+.aboutlink, .aboutlink:hover {
+    color: #DFDFD4;
+}
+
+.footerlink {
+    color: #30241a;
+}
+
+span {
+    color: #30241a;
+}
